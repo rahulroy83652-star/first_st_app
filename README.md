@@ -1,1 +1,0 @@
-# first_st_app
